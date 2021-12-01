@@ -1,2 +1,4 @@
-build/
-bin/foo
+doc/html
+doc/latex
+bin
+build
