@@ -216,5 +216,5 @@ int main(int argc, char **argv) {
 
   printf("Finshed\n");
 
-  return 1;
+  return 0;
 }
